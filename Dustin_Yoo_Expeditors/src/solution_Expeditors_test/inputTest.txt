@@ -1,0 +1,6 @@
+"Boe","Jiden","555 Washington St.","Puyallup","wA","44"
+"Duane","Jonson","321 Park Ave.","Bellevue","Wa","23"
+"Jack","Smith","432 4th Blvd.","Tacoma","WA","11"
+"Tommy","Jasper","123 1st St","Seattle","wa","30"
+"Jerry","Jasper","123 1st St","Seattle","wa","29"
+"Jake","Smith","432 4th Blvd.","Tacoma","WA","99"
